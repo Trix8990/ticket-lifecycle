@@ -34,6 +34,18 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 - Department Assignment: The ticket is assigned to the relevant department based on the help topic or manual intervention.
 - Agent Assignment: A specific agent within the department is either automatically or manually assigned to handle the ticket.
 
+
+<h2>3. Agent Review and Acknowledgment</h2>
+<h4>Key Actions by Agent:</h4>
+
+- Ticket Acknowledgment: The agent reviews the ticket and acknowledges receipt. This may involve sending an auto-response to the customer.
+- Ticket Review: The agent reviews the issue described by the customer.
+
+<h4>Initial Actions:</h4>
+
+- Update Ticket Status: The agent might change the status to "In Progress" if they begin working on the ticket.
+- Communication with Customer: The agent may initiate communication by replying to the customer’s request (e.g., asking for more details or providing an initial response).
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
