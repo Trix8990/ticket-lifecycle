@@ -23,7 +23,8 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 - Ticket Priority: The ticket may be automatically or manually assigned a priority (e.g., Low, Medium, High, Critical).
 - SLA (Service Level Agreement): If configured, SLAs are applied based on the ticket's priority and help topic, defining expected response and resolution times.
 
-![Intake](https://github.com/user-attachments/assets/c5cee933-5655-46cc-96ff-4b508fd52a50)
+![Sample Intake](https://github.com/user-attachments/assets/60fe045b-147e-4e1a-9796-41db8f5ff452)
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -43,6 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Agent Assignment: A specific agent within the department is either automatically or manually assigned to handle the ticket.
 
 
+![AssignedTicket](https://github.com/user-attachments/assets/c45b14b7-ceab-4313-ae1c-842ff56c69d8)
+
+
 <h2>3. Agent Review and Acknowledgment</h2>
 <h4>Key Actions by Agent:</h4>
 
@@ -53,6 +57,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - Update Ticket Status: The agent might change the status to "In Progress" if they begin working on the ticket.
 - Communication with Customer: The agent may initiate communication by replying to the customer’s request (e.g., asking for more details or providing an initial response).
+
+
+![AgentAcknowledgement](https://github.com/user-attachments/assets/8df2d395-ca87-4841-a2d5-48d101e30bbf)
 
 
 <h2>4. Ticket Investigation and Work in Progress</h2>
@@ -86,6 +93,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Change Ticket Status to "Closed": After confirming the customer is satisfied, the agent will mark the ticket as "Closed".
 - Email Notification: The customer receives a resolution notification email confirming that the ticket has been resolved and closed.
 - Survey: If enabled, a customer satisfaction survey may be sent to the customer for feedback on the support experience.
+
+
+![JaneResolution](https://github.com/user-attachments/assets/3fc12410-3201-47a9-a6d0-c7b85dcb2b88)
 
 
 <h2>6. Post-Resolution (Optional)</h2>
