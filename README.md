@@ -27,7 +27,7 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A customer submitting a ticket.
 </p>
 <br />
 
@@ -46,6 +46,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![AssignedTicket](https://github.com/user-attachments/assets/c45b14b7-ceab-4313-ae1c-842ff56c69d8)
 
+<p>
+Ticket assigned to Online Banking department..
+</p>
+<br />
+
 
 <h2>3. Agent Review and Acknowledgment</h2>
 <h4>Key Actions by Agent:</h4>
@@ -61,6 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![AgentAcknowledgement](https://github.com/user-attachments/assets/8df2d395-ca87-4841-a2d5-48d101e30bbf)
 
+<p>
+Agent acknowledging ticket.
+</p>
+<br />
 
 <h2>4. Ticket Investigation and Work in Progress</h2>
 <h4>Actions during Investigation:</h4>
@@ -97,9 +106,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![JaneResolution](https://github.com/user-attachments/assets/3fc12410-3201-47a9-a6d0-c7b85dcb2b88)
 
+<p>
+Agent inputs steps taken to resolve the problem.
+</p>
+<br />
 
 
 ![resolved](https://github.com/user-attachments/assets/2036eb8a-4e2b-4ab5-92f5-6fea3649127a)
+
+<p>
+Agent marks ticket as resolved after the problem was fixed.
+</p>
+<br />
 
 
 <h2>6. Post-Resolution (Optional)</h2>
@@ -149,13 +167,7 @@ The osTicket ticket lifecycle ensures that customer inquiries are handled effici
 
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 
 
