@@ -80,6 +80,20 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 - Survey: If enabled, a customer satisfaction survey may be sent to the customer for feedback on the support experience.
 
 
+<h2>6. Post-Resolution (Optional)</h2>
+<h4>Follow-Up:</h4>
+
+- Follow-up Tasks: If the customer is not satisfied or if the issue is ongoing, agents may re-open the ticket for further investigation.
+- Reopened Ticket: If a customer reports that the issue reoccurs, the agent can re-open the ticket and continue troubleshooting.
+- Surveys & Feedback: After resolution, customers may be prompted to fill out a satisfaction survey.
+
+
+<h4>Key Elements in Post-Resolution:</h4>
+
+- Ticket Rating: If enabled, customers can rate their experience with the agent (via the satisfaction survey).
+- Ticket History: The entire history of the ticket, including internal notes, responses, and resolutions, is logged in the system for future reference or reporting.
+
+
 
 <h2>Summary of Ticket Lifecycle Stages in osTicket</h2>
 <h4>1. Ticket Intake:</h4>
