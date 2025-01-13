@@ -96,7 +96,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ![JaneResolution](https://github.com/user-attachments/assets/3fc12410-3201-47a9-a6d0-c7b85dcb2b88)
-< br/>
+
+
 
 ![resolved](https://github.com/user-attachments/assets/2036eb8a-4e2b-4ab5-92f5-6fea3649127a)
 
