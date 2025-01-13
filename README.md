@@ -46,6 +46,73 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 - Update Ticket Status: The agent might change the status to "In Progress" if they begin working on the ticket.
 - Communication with Customer: The agent may initiate communication by replying to the customer’s request (e.g., asking for more details or providing an initial response).
 
+
+<h2>4. Ticket Investigation and Work in Progress</h2>
+<h4>Actions during Investigation:</h4>
+
+- Ticket Updates: Agents can continue adding notes, responses, or attachments to the ticket.
+- Internal Collaboration: Agents may collaborate with other agents, escalate the issue to a higher level, or involve other departments if needed.
+- Customer Communication: The agent may keep the customer updated on progress or request additional information.
+- Escalation: If the issue is more complex, the agent may escalate the ticket to a manager or specialist for further investigation.
+
+
+<h4>Key Actions:</h4>
+
+- Change Ticket Status: The status of the ticket may move from "Open" to "In Progress" or "On Hold" if the agent is waiting for a response from the customer.
+- SLA Monitoring: If SLAs are set, osTicket will track the ticket’s progress to ensure that the agent meets the required response and resolution times. SLA breaches may trigger automatic alerts.
+
+
+
+
+<h2>5. Resolution and Closure</h2>
+<h4>Actions for Resolution:</h4>
+
+- Solution Applied: The agent provides the final solution to the customer or resolves the issue internally.
+- Ticket Status Update: The agent changes the ticket status to "Resolved" after the issue has been fixed.
+- Customer Feedback Request: The agent may ask the customer to confirm if the issue has been resolved or if further assistance is required.
+- Documentation: If necessary, the agent can create knowledge base articles or document the solution for future reference.
+
+
+<h4>Key Steps for Closure:</h4>
+
+- Change Ticket Status to "Closed": After confirming the customer is satisfied, the agent will mark the ticket as "Closed".
+- Email Notification: The customer receives a resolution notification email confirming that the ticket has been resolved and closed.
+- Survey: If enabled, a customer satisfaction survey may be sent to the customer for feedback on the support experience.
+
+
+
+<h2>Summary of Ticket Lifecycle Stages in osTicket</h2>
+<h4>1. Ticket Intake:</h4>
+
+- Customer submits a ticket via email, web portal, or other means.
+- Ticket is categorized using help topics.
+
+<h4>2. Ticket Routing and Assignment:</h4>
+
+- The ticket is assigned to the correct department and agent.
+
+<h4>3. Agent Review and Acknowledgment:</h4>
+
+- Agent acknowledges and begins working on the ticket.
+
+<h4>4. Ticket Investigation and Work:</h4>
+
+- Agent investigates the issue, communicates with the customer, and collaborates internally if needed.
+
+<h4>5. Resolution and Closure:</h4>
+
+- Agent resolves the issue, updates the status to "Resolved", and closes the ticket.
+
+<h4>6. Post-Resolution:</h4>
+
+- Follow-up with the customer to ensure satisfaction and gather feedback.
+
+
+<h2>Conclusion</h2>
+The osTicket ticket lifecycle ensures that customer inquiries are handled efficiently and effectively. From the moment a ticket is created, through the investigation and resolution phases, and finally to closure, osTicket provides agents with the tools needed to manage and resolve support requests. By tracking every stage, ensuring SLAs are met, and facilitating communication between agents and customers, osTicket helps improve customer satisfaction and optimize support operations.
+
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
