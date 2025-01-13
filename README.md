@@ -23,9 +23,8 @@ The ticket lifecycle in osTicket represents the journey of a support ticket from
 - Ticket Priority: The ticket may be automatically or manually assigned a priority (e.g., Low, Medium, High, Critical).
 - SLA (Service Level Agreement): If configured, SLAs are applied based on the ticket's priority and help topic, defining expected response and resolution times.
 
-<p>
-<img src="https://imgur.com/a/07MmARF)" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Intake](https://github.com/user-attachments/assets/c5cee933-5655-46cc-96ff-4b508fd52a50)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
